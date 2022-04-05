@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: CF-KGQA
+summary: Learning Causal Representations for Knowledge Graph-based Question Answering.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- NLP
+date: "2020-03-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -12,14 +12,14 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+#url_code: ""
+url_pdf: "uploads/cf-kgqa.pdf"
+url_slides: "uploads/cf-kgqa.pptx"
 url_video: ""
 
 # Slides (optional).

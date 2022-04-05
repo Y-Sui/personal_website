@@ -29,7 +29,7 @@ content:
   phone: 86+18141195692
   contact_links:
     - icon: cv
-      icon_pack: fab
+      icon_pack: ai
       name: CV link
       link: uploads/CV_YuanSUI.pdf
 
