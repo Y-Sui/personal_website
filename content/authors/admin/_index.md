@@ -18,9 +18,9 @@ bio: My research interests include natural language processing, causal inference
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
 - Natural Language Processing
 - Information Retrieval
+- Causal Reference and Learning
 
 # Education to show in About widget
 education:
@@ -44,12 +44,12 @@ social:
 - icon: cv
   icon_pack: ai
   link: uploads/CV_YuanSUI.pdf
-- icon: transcript
-  icon_pack: ai
-  link: uploads/Transcript_YuanSUI.pdf
+#- icon: transcript
+#  icon_pack: ai
+#  link: uploads/Transcript_YuanSUI.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "yuansui08@gmail"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -57,4 +57,7 @@ highlight_name: true
 
 My name is Yuan Sui, and I am currently a junior student majoring in computer science from Shandong Normal University. In the past three years, I have devoted myself to researching Natural Language Process (NLP), specifically focusing on the interpretability of Named Entity Recognition (NER) and Knowledge Graph-Based Question Answering (KGQA). In particular, I am interest in the research of KGQA as I am fascinated by the innumerable amount of facts embedded within the real-world knowledge graphs, which has hindered the access from regular users. And I am intrigued to seek beyond the complexity and volumes of those facts by fully exploring the capacity of KGQA to bridge that gap between users' demands and the complex knowledge graphs.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_YuanSUI.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Transcript_YuanSui.pdf" "newtab" >}}transcript{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Toefl_YuanSui.pdf" "newtab" >}}language proficiency (TOEFL-iBT){{< /staticref >}}.
+
