@@ -42,11 +42,11 @@ social:
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 - icon: cv
-   icon_pack: ai
-   link: uploads/CV_YuanSUI.pdf
+  icon_pack: ai
+  link: uploads/CV_YuanSUI.pdf
 - icon: transcript
-   icon_pack: ai
-   link: uploads/Transcript_YuanSUI.pdf
+  icon_pack: ai
+  link: uploads/Transcript_YuanSUI.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
