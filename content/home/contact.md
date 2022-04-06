@@ -34,5 +34,5 @@ content:
       link: uploads/CV_YuanSUI.pdf
 
 design:
-  columns: '2'
+  columns: '1'
 ---
