@@ -38,7 +38,7 @@ experience:
     location: Jinan, China
     date_start: '2020'
     date_end: '2021'
-    description: Supervisor: Prof. Shanshan Feng
+    description: Supervisor - Prof. Shanshan Feng
         
   - title: Research Assistant
     company: Institute of Computing Technology, Chinese Academy of Sciences
