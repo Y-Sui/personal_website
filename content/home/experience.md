@@ -48,5 +48,6 @@ experience:
     description: Supervisor - Prof. Shuhui Wang
 
 design:
-  columns: '3'
+  view: compact
+  columns: '2'
 ---

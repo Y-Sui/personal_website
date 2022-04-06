@@ -49,5 +49,6 @@ item:
   url: ""
 
 design:
+  view: compact
   columns: '2' 
 ---
