@@ -5,6 +5,8 @@ tags:
 - NLP
 date: "2020-03-27T00:00:00Z"
 
+weight: 20
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

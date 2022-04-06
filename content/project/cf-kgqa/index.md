@@ -4,6 +4,7 @@ summary: Learning Causal Representations for Knowledge Graph-based Question Answ
 tags:
 - NLP
 date: "2020-03-27T00:00:00Z"
+weight: 10
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -31,7 +32,7 @@ url_video: ""
 slides: ""
 ---
 
-Abstract:
+**Abstract**:
 To improve the performance of knowledge graph-based question answering system (KGQA), several approaches have been developed to construct a semantic parser based on entity linking, relation identification and logical/numerical structure identification. However, existing methods arrive at answers only by maximizing the
 data likelihood only on the sparse or imbalanced explicit relations, ignoring the potentially large number of latent relations, making KGQA suffer from a high level of spurious entity relations and missing link. In this paper, we propose a causal filter (CF) model for KGQA (CF-KGQA). It performs causal interference on the relation representation space to filter out the spurious entity relations in a
 data-driven manner, and to comprehensively discover the disentangled latent factors to learn high-quality latent factors for producing more reasonable implicit latent relations. The model comprises a causal pairwise aggregator (AP) and a disentangled latent factor aggregator (AC). The former filters out most spurious entity relations inconsistent to their dense groups’ neighborhood, and
