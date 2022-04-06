@@ -1,5 +1,5 @@
 ---
-title: CF-KGQA
+title: Causal Filter based KGQA
 summary: Learning Causal Representations for Knowledge Graph-based Question Answering.
 tags:
 - NLP
@@ -8,9 +8,9 @@ date: "2020-03-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+#image:
+#  caption: Photo by rawpixel on Unsplash
+#  focal_point: Smart
 
 #links:
 #- icon: twitter
