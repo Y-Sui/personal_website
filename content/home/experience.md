@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Work Experience
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+  - title: Research Assistant
+    company: School of Information Science and Technology, Shandong Normal University
+    company_url: 'https://www.ischool.sdnu.edu.cn/'
+    # company_logo: org-gc
+    location: Jinan, China
+    date_start: '2019'
+    date_end: '2021'
+    description: Supervisor: Prof. Wei Yan & Prof. Liang Zhang
+	
+  - title: Research Assistant
+    company: School of Information Science and Technology, Shandong Normal University
+    company_url: 'https://www.ischool.sdnu.edu.cn/'
+    # company_logo: org-gc
+    location: Jinan, China
+    date_start: '2020'
+    date_end: '2021'
+    description: Supervisor: Prof. Shanshan Feng
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research Assistant
+    company: Institute of Computing Technology, Chinese Academy of Sciences
+    company_url: 'http://www.ict.ac.cn/'
+    # company_logo: org-gc
+    location: Beijing, China
+    date_start: '2021'
+    date_end: '2022'
+    description: Supervisor: Prof. Shuhui Wang
 
 design:
   columns: '2'

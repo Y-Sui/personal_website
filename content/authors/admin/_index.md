@@ -21,6 +21,9 @@ interests:
 - Natural Language Processing
 - Information Retrieval
 - Causal Reference and Learning
+- Knowledge Graph Representation
+- Machine Learning
+- Explainable AI
 
 # Education to show in About widget
 education:
