@@ -1,7 +1,6 @@
 ---
 title: Automatic Knowledge Graph Generation
-summary: Learning Deep Features towards Automation of Knowledge Graph
-Generation.
+summary: Learning Deep Features towards Automation of Knowledge Graph Generation.
 tags:
 - NLP
 date: "2020-03-27T00:00:00Z"
