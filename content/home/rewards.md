@@ -2,16 +2,14 @@
 widget: blank
 headless: true
 
-weight: 100
-
 # ... Put Your Section Options Here (title etc.) ...
 title: Rewards
 subtitle:
-weight: 10  # section position on page
+weight: 100
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   view: compact
-  columns: '1'
+  columns: '2'
 ---
 
 - College First Prize Scholarship (Top 10%) at SDNU
