@@ -29,7 +29,7 @@ experience:
     location: Jinan, China
     date_start: '2019'
     date_end: '2021'
-    description: Supervisor: Prof. Wei Yan and Prof. Liang Zhang
+    description: Supervisor - Prof. Wei Yan and Prof. Liang Zhang
 	
   - title: Research Assistant
     company: School of Information Science and Technology, Shandong Normal University
@@ -47,7 +47,7 @@ experience:
     location: Beijing, China
     date_start: '2021'
     date_end: '2022'
-    description: Supervisor: Prof. Shuhui Wang
+    description: Supervisor - Prof. Shuhui Wang
 
 design:
   columns: '2'
