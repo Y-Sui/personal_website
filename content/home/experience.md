@@ -30,7 +30,6 @@ experience:
     date_start: '2019'
     date_end: '2021'
     description: Supervisor - Prof. Wei Yan and Prof. Liang Zhang
-	
   - title: Research Assistant
     company: School of Information Science and Technology, Shandong Normal University
     company_url: 'https://www.ischool.sdnu.edu.cn/'
@@ -38,8 +37,7 @@ experience:
     location: Jinan, China
     date_start: '2020'
     date_end: '2021'
-    description: Supervisor - Prof. Shanshan Feng
-        
+    description: Supervisor - Prof. Shanshan Feng    
   - title: Research Assistant
     company: Institute of Computing Technology, Chinese Academy of Sciences
     company_url: 'http://www.ict.ac.cn/'
