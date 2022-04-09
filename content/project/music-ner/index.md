@@ -34,3 +34,5 @@ slides: ""
 
 **Abstract**:
 Knowledge graph generation (KGG) aims at generating a knowledge graph from enormous amounts of unstructured sources. Once unstructured information is stored in a graph-structured format, it becomes easier to access and utilize. In this paper, we propose an automatic knowledge graph generation method based on an efficient contextual model. It is composed of layered convolutional neural networks (CNN) and attentionbased bidirectional LSTM layers. The model achieves similar performance compared to the RoBERTa (pre-trained model) but is time conserving and is lighter. In addition, we propose a framework to enrich the constructed KG with external high-quality sources using relation linking. The refined knowledge graph is visualized based on Neo4j. Our experiments highlight that our method achieves a few points of amelioration that can be readily applied to other similar domain fields.
+
+**You can try the music NER demo now! ([music-NER](http://120.27.14.98:8501/))**
